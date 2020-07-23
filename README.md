@@ -25,8 +25,11 @@ and look for ways they could be made easier for everyone to understand.
 
 ## What is "Windows On" and "Universal Drivers"?
 Windows On is my concept for a Computer Operating System that connects Apps with Devices
-to assist you in everyday life. Universal Drivers are a collectively decided set
-of instructions which choose how Apps and Devices behave and work together.
+to assist you in everyday life.
+
+Universal Drivers are a collectively decided set of instructions which choose how
+Apps and Devices behave and work together.
+
 Emphasis on Performance-Per-Watt, Low-Power and Environmental-Friendliness
 were considered in light of the COVID-19 Pandemic and Lockdown measures
 that occurred at the time of writing.
